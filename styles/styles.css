@@ -48,3 +48,12 @@
     line-height: 1.5;
     color: #555;
   }
+  .user {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+  }
+  
+  .user img {
+    height: 2rem;
+  }
